@@ -1,4 +1,4 @@
-# best-chinese-front-end-blogs
+# furry-octo-goggles
 
 收集优质的中文前端博客（还有[候选者](./Candidates.md)）
 
